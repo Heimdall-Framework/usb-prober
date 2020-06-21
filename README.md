@@ -8,7 +8,7 @@ A lightweight script that lists all connected USB devices.
 Simply execute the `install.sh` file. The only python dependency is `libusb1`.
 
 ## Usage
-After running the script to that installs your dependencies, all you need to do is to type `uprobe` on the command line. It will print all connected USB devices and their most important properties.
+After running the script in order to install your dependencies, all you need to do is to type `uprobe` on the command line. It will print all connected USB devices and their most important properties.
 
 ## Listed properties
 * Port number
