@@ -1,5 +1,7 @@
 # usb-prober
 
+[![Build Status](https://travis-ci.org/Heimdall-Framework/usb-prober.svg?branch=master)](https://travis-ci.org/Heimdall-Framework/usb-prober)
+
 A lightweight script that lists all connected USB devices.
 
 ---
