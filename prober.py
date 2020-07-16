@@ -22,9 +22,7 @@ class Prober():
                 print('Port number: {}'.format(device.getPortNumber()))
                 print('Device product ID: {}'.format(device.getProductID()))
                 print('Device vendor ID: {}'.format(device.getVendorID()))
-                
                 print('Device class: {}'.format(device_class))
-
                 print('Device bus number: {}'.format(device.getBusNumber()))
                 print('Device bus address: {}'.format(device.getDeviceAddress()))
 
