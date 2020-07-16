@@ -2,7 +2,6 @@
 import usb1 as usb
 
 class Prober():
-
     def probe(self):
         with usb.USBContext() as context:
             
@@ -28,5 +27,5 @@ class Prober():
 
                 print('-'*80)
 
-if __name__ == '__main__':
+def main():
     Prober().probe()
